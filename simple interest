@@ -1,0 +1,8 @@
+print("enter principle amount")
+a=raw_input()
+print("enter rate of interest")
+b=raw_input()
+print("enter time period")
+c=raw_input()
+d=int(a)*int(b)*int(c)/100
+print(d) 
