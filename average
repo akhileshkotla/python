@@ -1,0 +1,12 @@
+print("enter Ist number")
+a=raw_input()
+print("enter 2nd number")
+b=raw_input()
+print("enter 3rd number")
+c=raw_input()
+print("enter 4th number")
+d=raw_input()
+print("enter 5th number")
+e=raw_input()
+av=(int(a)+int(b)+int(c)+int(d)+int(e))/5
+print(av)
